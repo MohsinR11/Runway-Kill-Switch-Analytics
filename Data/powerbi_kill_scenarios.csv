@@ -1,0 +1,9 @@
+scenario,initiatives_killed,monthly_burn_change,monthly_revenue_change,new_net_burn,new_runway,runway_extension,initiative
+Baseline (Current),0,0.0,0.0,84736.04,21.5,0.0,
+Kill Core SaaS Platform,1,-121563.36,-168287.77,131460.44999999998,13.840743584857652,-7.659256415142348,Core SaaS Platform
+Kill Mobile App Expansion,1,-39576.15,-10757.42,55917.30999999999,32.539304555244165,11.039304555244165,Mobile App Expansion
+Kill Enterprise Sales Team,1,-45514.41,-33718.88,72940.50999999998,24.945128297019043,3.4451282970190427,Enterprise Sales Team
+Kill Content Marketing Program,1,-13897.86,-3203.42,74041.59999999999,24.574163443253525,3.074163443253525,Content Marketing Program
+Kill APAC Expansion,1,-51231.2,-0.0,33504.84,54.30589670029763,32.80589670029763,APAC Expansion
+Kill AI Feature Beta,1,-29601.54,-680.99,55815.48999999999,32.598663560957725,11.098663560957725,AI Feature Beta
+Kill All Negative ROI,5,-179821.16,-48360.70999999999,-46724.41000000002,999.0,977.5,Multiple

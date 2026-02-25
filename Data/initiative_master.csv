@@ -1,0 +1,7 @@
+initiative_id,initiative_name,start_month,team_size,success_probability,status,initial_monthly_burn,initial_monthly_revenue
+CORE_SAAS,Core SaaS Platform,0,12,0.85,Active,85000,45000
+MOBILE_APP,Mobile App Expansion,3,4,0.65,Active,28000,2000
+ENTERPRISE_SALES,Enterprise Sales Team,6,5,0.75,Active,42000,8000
+CONTENT_MARKETING,Content Marketing Program,2,2,0.5,Active,15000,1500
+APAC_EXPANSION,APAC Expansion,8,3,0.35,Active,35000,0
+AI_FEATURE,AI Feature Beta,10,3,0.4,Active,22000,500
